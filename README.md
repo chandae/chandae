@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chandae. I am a Full Stack Software Developer With A Profound Interest and Love For Computer Science/Engineering and Software In General.
 - 👀 I’m interested in useful, innovative and groundbreaking technology that solves modern day problems. 
-- 🌱 I’m currently learning Django, REST APIs, Bootstrap and REACT. I am also advancing my Python, JavaScript and HTML & CSS, Bash and C
-- 💞️ I’m looking to collaborate on Django and general Programming projects that can advance what I have learnt so far over the last 1 year and 6 months
+- 🌱 I’m specialise in building django web applications & flutter and dart application software.
+- 💞️ I’m always looking to collaborate on general programming projects that can advance what I have learnt so far over the last 3 years of my software developing journey.
