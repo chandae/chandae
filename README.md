@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandae. I am a Full Stack Software Developer With A Profound Interest and Love For Computer Science/Engineering and Software In General.
+- 👋 Hi, I’m Emmanuel Chanda, aka @chandae. I am a full stack software developer with a profound interest and love for computer science/engineering and software on general.
 - 👀 I’m interested in useful, innovative and groundbreaking technology that solves modern day problems. 
-- 🌱 I’m specialise in building django web applications & flutter and dart application software.
-- 💞️ I’m always looking to collaborate on general programming projects that can advance what I have learnt so far over the last 3 years of my software developing journey.
+- 🌱 I specialise in building django web applications & flutter and dart application software.
+- 💞️ I’m always looking to collaborate on general programming projects that can advance what I have learnt so far over the last 3 years of my software development journey.
