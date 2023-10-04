@@ -1,4 +1,12 @@
-- 👋 Hi, I’m Emmanuel Chanda, aka @chandae. I am a full stack software developer with a profound interest and love for computer science/engineering and software on general.
-- 👀 I’m interested in useful, innovative and groundbreaking technology that solves modern day problems. 
-- 🌱 I specialise in building django web applications & flutter and dart application software.
-- 💞️ I’m always looking to collaborate on general programming projects that can advance what I have learnt so far over the last 3 years of my software development journey.
+👋 Hello there,
+
+My name is Emmanuel Chanda. I am a full stack and seasoned software developer with a profound interest and love for computer science/engineering.
+I love building things. Software happens to be one of those things.
+
+- 👨‍💻 I am interested in building useful, innovative and groundbreaking technologies that solve modern day problems.
+- 🚀 I specialize in designing, building and maintaining Python (Django), Dart (Flutter), and JavaScript/TypeScript (Next.js & React.js) software applications.
+- 🌟 Let's turn ideas into elegant, functional, and scalable applications together!
+- 📫 Connect with me: LinkedIn
+- 📚 I Am Always Learning, Coding, Building, and Sharing!
+
+~ godspeed 🚀
